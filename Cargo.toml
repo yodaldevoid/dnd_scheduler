@@ -1,0 +1,7 @@
+[package]
+name = "dnd_scheduler"
+version = "0.1.0"
+authors = ["Gabriel Smith <gsmith@d3engineering.com>"]
+edition = "2018"
+
+[dependencies]
